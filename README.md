@@ -2,13 +2,13 @@
 
 Based on the [Sample Plugin](https://wiki.alliedmods.net/Sample_Plugins_(Metamod:Source)#Sample_Plugin) for Metamod: Source.
 
-# Building
+## Building
 
 Set the following environment variables:
 
 - `MMSOURCE18`: Path to the [metamod-source](https://github.com/alliedmodders/metamod-source) repository.
 - `HL2SDK-BLADE`: Path to the [hl2sdk](https://github.com/alliedmodders/hl2sdk) repository with the `blade` branch checked out.
-    - Until pull request [#104](https://github.com/alliedmodders/hl2sdk/pull/104) is merged, check out the `blade-update-import-libs` branch instead.
+  - Until pull request [#104](https://github.com/alliedmodders/hl2sdk/pull/104) is merged, check out the `blade-update-import-libs` branch instead.
 
 Afterwards, set the configuration to `Release - Blade Symphony` and platform to `x64` within Visual Studio.
 

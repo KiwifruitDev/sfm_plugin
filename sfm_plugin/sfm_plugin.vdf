@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"		"sfm_plugin"
+	"file"		"addons/sfm_plugin/bin/sfm_plugin"
+}

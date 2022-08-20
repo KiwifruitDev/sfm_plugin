@@ -25,8 +25,8 @@
  * SOFTWARE.
  */
 
-#ifndef _INCLUDE_METAMOD_SOURCE_STUB_PLUGIN_H_
-#define _INCLUDE_METAMOD_SOURCE_STUB_PLUGIN_H_
+#ifndef _INCLUDE_SFM_PLUGIN_H_
+#define _INCLUDE_SFM_PLUGIN_H_
 
 #include <ISmmPlugin.h>
 #include <igameevents.h>
@@ -88,4 +88,4 @@ extern SFMPlugin g_SFMPlugin;
 
 PLUGIN_GLOBALVARS();
 
-#endif //_INCLUDE_METAMOD_SOURCE_STUB_PLUGIN_H_
+#endif //_INCLUDE_SFM_PLUGIN_H_
